@@ -1,0 +1,7 @@
+{
+  "name": "csv-reader-fast",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A fast drop-in replacement for make.fun's csv-reader 1.0.0",
+  "license": "MIT"
+}
